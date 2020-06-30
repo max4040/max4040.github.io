@@ -9,3 +9,5 @@ Sollten alle Tests bestanden worden sein, dann kannst du deine Änderungen in de
 * Test3
 
 > I’ve always been more interested
+
+<img src="https://cdn.pixabay.com/photo/2014/12/12/19/45/lion-565820_960_720.jpg"/>
